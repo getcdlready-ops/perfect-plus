@@ -1,4 +1,4 @@
-import React, { useRef, useState } from "react";
+import { useRef, useState } from "react";
 import { useForm } from "react-hook-form";
 import SignatureCanvas from "react-signature-canvas";
 import {
@@ -12,14 +12,13 @@ import { Input } from "../src/components/ui/input";
 import { Label } from "../src/components/ui/label";
 import { RadioGroup, RadioGroupItem } from "../src/components/ui/radio-group";
 import { Checkbox } from "../src/components/ui/checkbox";
-import { Calendar, User, MapPin, FileText, PenTool } from "lucide-react";
+import { User, MapPin, FileText, PenTool } from "lucide-react";
 import { toast } from "react-toastify";
 import Layout from "../src/layout/Layout";
-import PageBanner from "../src/components/PageBanner";
 import emailjs from "@emailjs/browser";
-const SERVICE_ID = "service_uimxucn";
-const TEMPLATE_ID = "template_wy7cadp";
-const PUBLIC_KEY = "cj9evgivVEUn1Qkb3";
+const SERVICE_ID = "service_vr0swno";
+const TEMPLATE_ID = "template_dm41pvp";
+const PUBLIC_KEY = "h2LpkiNfIOITcGjfs";
 
 export default function Enrollment() {
   const {

@@ -7,9 +7,9 @@ import { Input } from "../src/components/ui/input";
 import { TextArea } from "@radix-ui/themes";
 import { useState } from "react";
 
-const SERVICE_ID = "service_uimxucn";
-const TEMPLATE_ID = "template_touimv4";
-const PUBLIC_KEY = "cj9evgivVEUn1Qkb3";
+const SERVICE_ID = "service_vr0swno";
+const TEMPLATE_ID = "template_bki58pu";
+const PUBLIC_KEY = "h2LpkiNfIOITcGjfs";
 
 const ContactUs = () => {
   const {
