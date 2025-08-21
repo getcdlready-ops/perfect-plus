@@ -5,7 +5,7 @@ const Gallery = () => {
   const galleryImages = [
     {
       id: "1",
-      src: "/assets/images/gallery/ae1.jpeg",
+      src: "/assets/images/gallery/ae11.jpeg",
       alt: "Gallery Image 1",
       className: "sm:col-span-2 sm:row-span-2",
     },
@@ -17,13 +17,13 @@ const Gallery = () => {
     },
     {
       id: "3",
-      src: "/assets/images/gallery/ae2.jpeg",
+      src: "/assets/images/gallery/ae5.jpeg",
       alt: "Gallery Image 3",
       className: "sm:col-span-1 sm:row-span-2",
     },
     {
       id: "4",
-      src: "/assets/images/gallery/ae3.jpeg",
+      src: "/assets/images/gallery/ae6.jpeg",
       alt: "Gallery Image 4",
       className: "sm:col-span-2",
     },
@@ -35,13 +35,13 @@ const Gallery = () => {
     },
     {
       id: "7",
-      src: "/assets/images/gallery/ae5.jpeg",
+      src: "/assets/images/gallery/ae2.jpeg",
       alt: "Gallery Image 6",
       className: "sm:col-span-1 sm:row-span-2",
     },
     {
       id: "5",
-      src: "/assets/images/gallery/ae6.jpeg",
+      src: "/assets/images/gallery/ae3.jpeg",
       alt: "Gallery Image 7",
       className: "sm:col-span-2 sm:row-span-2",
     },
@@ -65,7 +65,7 @@ const Gallery = () => {
     },
     {
       id: "11",
-      src: "/assets/images/gallery/ae11.jpeg",
+      src: "/assets/images/gallery/ae1.jpeg",
       alt: "Gallery Image 11",
       className: "sm:col-span-1 sm:row-span-2",
     },
